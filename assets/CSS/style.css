@@ -130,7 +130,18 @@ footer div {
 
 /* Gallery */
 
+.gallery-container {
+    display: flex;   
+    max-width: 100vw;
+    justify-content: center;
+   
+}
 
+.gallery-container img {
+    width: 310px; 
+    margin: 3px auto;
+    border-radius: 8px;
+}
 
 /* media quieries */
 
