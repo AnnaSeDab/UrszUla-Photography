@@ -110,3 +110,20 @@ footer div {
     margin:0 auto;
     font-family: 'BenchNine', sans-serif;
     }
+
+
+
+
+/* media quieries */
+
+@media screen and (max-width: 1386px) {
+    .hidden-testimonial {
+        display: none !important;
+    }
+}
+
+@media screen and (min-width: 1387px) {
+    .visible-testimonial {
+        display: none !important;
+    }
+}
