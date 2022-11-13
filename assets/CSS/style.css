@@ -141,6 +141,7 @@ footer div {
     width: 90vw; 
     margin: 3px auto;
     border-radius: 8px;
+    object-fit: cover;
 }
 
 .gallery-text {
