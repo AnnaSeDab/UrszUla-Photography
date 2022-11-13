@@ -2,6 +2,16 @@
 /*caroussel*/
 
 
+.carousel-slide {
+    object-fit: cover;
+}
+.carousel-item img {
+    height: 95vh; 
+    overflow: hidden;
+      } 
+
+
+
 /* testimonials */
 
 .testimonial-section {
