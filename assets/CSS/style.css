@@ -1,9 +1,60 @@
 
 
 
+/* Contact form */
+.contact-form {
+    margin-top: 20px;
+    
+}
 
+.contact-form-heading{
+    background-color: #e5e7ec;
+    position:relative;
+    width: 100vw;
+    
+}
 
+.contact-form-heading1{
+    position:relative;
+    top: 15px; 
+    text-align: center;
+    font-family: 'BenchNine', sans-serif;
+    font-size: 1.3em;
+    
+}
 
+.contact-form-heading2{
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+    font-size: 3em;
+}
+
+.form-element {
+    display: block;
+    margin: 5px auto;
+    font-family: 'BenchNine', sans-serif;
+    font-size: 1.3em;
+    padding: 5px;
+    width: 270px;
+    
+}
+
+.form-text {
+    font-family: 'BenchNine', sans-serif;
+    font-size: 1.3em;
+    padding: 5px;
+    text-align: center;
+    
+}
+
+.form-text-area {
+    display: block;
+    margin: 10px auto;
+    font-family: 'BenchNine', sans-serif;
+    font-size: 1.3em;
+    width:90%; 
+    max-width: 800px;
+}
 
 /* Footer */
 
