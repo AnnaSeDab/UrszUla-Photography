@@ -138,7 +138,7 @@ footer div {
 }
 
 .gallery-container img {
-    width: 310px; 
+    width: 90vw; 
     margin: 3px auto;
     border-radius: 8px;
 }
@@ -154,5 +154,23 @@ footer div {
 @media screen and (min-width: 1387px) {
     .visible-testimonial {
         display: none !important;
+    }
+}
+
+@media screen and (min-width: 800px) {
+    .gallery-container img { 
+        width: 49vw;
+    }
+}
+
+@media screen and (min-width: 900px) {
+    .gallery-container img { 
+        width: 32vw;
+    }
+}
+
+@media screen and (min-width: 1025px) {
+    .gallery-container img {
+        width: 24vw;
     }
 }
