@@ -130,8 +130,6 @@ footer div {
 
 /* Gallery */
 
-
-
 .gallery-navigation {
     background-color: #e5e7ec;
     height: 45px;
@@ -154,7 +152,6 @@ footer div {
         font-size: 1.2em;
         }
     
-
 .gallery-navigation a:hover{
     border-bottom:1px solid #777777;
     }
@@ -176,6 +173,20 @@ footer div {
 .gallery-text {
     font-family: 'BenchNine', sans-serif;
     text-align: center;
+}
+
+/* Pckages */
+
+.package{
+
+}
+
+.package-image{
+
+}
+
+.package-description{
+    
 }
 
 /* media quieries */
