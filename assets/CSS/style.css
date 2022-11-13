@@ -4,6 +4,18 @@
 
 /* testimonials */
 
+.flexbox-container-text {
+    font-family: 'BenchNine', sans-serif;
+    text-align: justify;
+    max-width: 300px;
+    margin-top: 15px;
+}
+
+.testimonial-element {
+    margin:auto 0;
+    max-width: 300px;
+}
+
 
 /* Contact form */
 .contact-form {
