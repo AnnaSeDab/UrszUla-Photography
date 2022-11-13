@@ -11,6 +11,12 @@
     margin-top: 15px;
 }
 
+.flexbox-container-picture {
+    max-width: 300px;
+    margin: 0 auto;
+    object-fit: cover;
+}
+
 .testimonial-element {
     margin:auto 0;
     max-width: 300px;
