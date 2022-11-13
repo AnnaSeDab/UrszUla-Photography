@@ -143,6 +143,11 @@ footer div {
     border-radius: 8px;
 }
 
+.gallery-text {
+    font-family: 'BenchNine', sans-serif;
+    text-align: center;
+}
+
 /* media quieries */
 
 @media screen and (max-width: 1386px) {
