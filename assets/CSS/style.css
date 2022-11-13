@@ -4,26 +4,26 @@
 
 /* testimonials */
 
+.testimonial-section {
+    margin: 0 20px;
+}
+
 .flexbox-container-text {
     font-family: 'BenchNine', sans-serif;
     text-align: justify;
-    max-width: 300px;
+    max-width: 400px;
     margin-top: 15px;
 }
 
 .flexbox-container-picture {
+    display: block;
     max-width: 300px;
     margin: 0 auto;
     object-fit: cover;
 }
 
-.testimonial-element {
-    margin:auto 0;
-    max-width: 300px;
-}
-
-
 /* Contact form */
+
 .contact-form {
     margin-top: 20px;
     
