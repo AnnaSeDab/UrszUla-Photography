@@ -193,11 +193,13 @@ footer div {
 .package-image img { 
     border-radius: 8px;
     object-fit: cover;
-    max-width: 355px;
+    max-width: 45vw; 
+    min-width: 300px;
 }
 
 .package-description{
-    max-width: 355px; 
+    max-width: 45vw; 
+    min-width: 300px;
     margin: 0 auto;
     border-radius: 8px;
     object-fit: cover;
@@ -223,6 +225,9 @@ footer div {
 @media screen and (min-width: 800px) {
     .gallery-container img { 
         width: 49vw;
+    }
+    .package{
+        margin:0 40px;
     }
 }
 
