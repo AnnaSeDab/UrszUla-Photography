@@ -176,6 +176,14 @@ footer div {
 
 /* Pckages */
 
+.packages-headline {
+    color: #949599;
+    font-family: 'BenchNine', sans-serif;
+    font-size: 10vw;
+    text-align:center;
+    margin: 10px;
+}
+
 .package{
     display: flex;   
     max-width: 100vw;
@@ -187,8 +195,6 @@ footer div {
 .package-image { 
     display: inline;
     margin: 7px auto;
-
-    
 }
 .package-image img { 
     border-radius: 8px;
@@ -228,6 +234,9 @@ footer div {
     }
     .package{
         margin:0 40px;
+    }
+    .packages-headline {
+       font-size: 6em;
     }
 }
 
