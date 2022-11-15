@@ -181,7 +181,7 @@ footer div {
     font-family: 'BenchNine', sans-serif;
     font-size: 10vw;
     text-align:center;
-    margin: 10px;
+    margin: 30px 10px;
 }
 
 .package{
@@ -190,6 +190,12 @@ footer div {
     flex-wrap: wrap;
     align-items: baseline;
     justify-content: center;
+}
+.package-name{
+    color: #949599;
+    font-family: 'BenchNine', sans-serif;
+    text-align: center;
+    font-size: 7vw;
 }
 
 .package-image { 
@@ -206,7 +212,6 @@ footer div {
 .package-description{
     max-width: 45vw; 
     min-width: 300px;
-    margin: 0 auto;
     border-radius: 8px;
     object-fit: cover;
     font-family: 'BenchNine', sans-serif;
@@ -231,7 +236,7 @@ footer div {
 @media screen and (min-width: 800px) {
     .gallery-container img { 
         width: 49vw;
-    }
+    }    
     .package{
         margin:0 40px;
     }
