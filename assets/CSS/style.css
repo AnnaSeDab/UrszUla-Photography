@@ -234,25 +234,54 @@ footer div {
 }
 
 @media screen and (min-width: 800px) {
-    .gallery-container img { 
+    .gallery-container img {
         width: 49vw;
-    }    
+    }
     .package{
         margin:0 40px;
     }
     .packages-headline {
        font-size: 6em;
     }
-}
-
-@media screen and (min-width: 900px) {
-    .gallery-container img { 
+    .package-name {
+        font-size: 4em;
+    }
+    .package-description{
+        margin: 20px;
+    }
+ }
+  
+ @media screen and (min-width: 900px) {
+    .gallery-container img {
         width: 32vw;
     }
-}
-
-@media screen and (min-width: 1025px) {
+ }
+  
+ @media screen and (min-width: 1025px) {
     .gallery-container img {
         width: 24vw;
     }
-}
+ }
+  
+ @media screen and (min-width: 1200px) {
+    .hide-big {
+        display: none;}
+    }
+  
+ @media screen and (max-width: 1199px) {
+        .hide-small {
+            display: none !important;
+        }
+    }
+  
+ @media screen and (min-width: 1200px) {
+    .hide-big {
+        display: none;}
+    }
+  
+ @media screen and (max-width: 1199px) {
+        .hide-small {
+            display: none !important;
+        }
+    }
+ 
