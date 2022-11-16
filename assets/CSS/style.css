@@ -242,7 +242,7 @@ hr {
     height: 350px;
     border-style: solid;
     border-color: #cccccc;
-    border-width: 1px;
+    border-width: 3px;
     border-radius: 50%;
     margin: 0 auto;
     flex-grow: 1;
