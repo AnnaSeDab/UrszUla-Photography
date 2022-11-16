@@ -201,23 +201,33 @@ footer div {
 .package-image { 
     display: inline;
     margin: 7px auto;
-}
+   }
+
 .package-image img { 
     border-radius: 8px;
     object-fit: cover;
-    max-width: 45vw; 
+    max-width: 470px; 
     min-width: 300px;
 }
 
 .package-description{
-    max-width: 45vw; 
+    max-width: 470px; 
     min-width: 300px;
-    border-radius: 8px;
     object-fit: cover;
     font-family: 'BenchNine', sans-serif;
     text-align: center;
 
 }
+
+hr {
+    border: 0; 
+    color: #949599;
+    border-top: 2px solid ;
+    border-radius: 5px;
+    margin: 5vh auto;
+    width:15vw;
+  }
+  
 
 /* media quieries */
 
