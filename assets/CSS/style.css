@@ -258,17 +258,16 @@ hr {
 .about-text-container{
     margin: 0 auto;
     height: 300px;
-    text-align: center;
     padding: 20px 0;
     flex-grow: 1;
+    align-items: center;
 }
-
 
 .about-text{
     max-width: 400px;
     padding: 0;
     margin: auto;
-    text-align: justify;
+    text-align: center;
     color: #949599;
     font-family: 'BenchNine', sans-serif;
 }
@@ -305,6 +304,12 @@ hr {
         margin: 20px;
     }
  }
+
+ @media screen and (min-width: 816px) {
+    .about-text{ 
+        padding-top:50px;
+    }
+}
 
  @media screen and (min-width: 900px) {
     .gallery-container img {
