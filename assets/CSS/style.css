@@ -272,6 +272,44 @@ hr {
     font-family: 'BenchNine', sans-serif;
 }
 
+.retouch {
+    display: flex;
+    flex-wrap: wrap-reverse;
+    align-items: center;
+    margin: 30px 4vw;
+}
+
+.retouch-picture-container{
+    max-width:350px;
+    height: 350px;
+    margin: 0 auto;
+    flex-grow: 1;
+}
+
+.retouch-picture{
+    background: no-repeat center center;
+    height: 100% ;
+    display: block;
+    border-radius: 8px;
+    margin: 0 auto;}
+
+.retouch-text-container{
+    margin: 0 auto;
+    height: 300px;
+    padding: 70px 0;
+    flex-grow: 1;
+    align-items: center;
+}
+
+.retouch-text{
+    max-width: 400px;
+    padding: 0;
+    margin: auto;
+    text-align: center;
+    color: #949599;
+    font-family: 'BenchNine', sans-serif;
+}
+
 
 /* media quieries */
 
