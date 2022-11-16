@@ -234,28 +234,33 @@ hr {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
+    margin: 30px 4vw;
 }
 
 .photographer-picture-container{
-    width:300px;
-    height: 300px;
+    max-width:350px;
+    height: 350px;
     border-style: solid;
     border-color: #cccccc;
     border-width: 1px;
     border-radius: 50%;
     margin: 0 auto;
+    flex-grow: 1;
 }
 
 .photographer-picture{
     background: no-repeat center center;
     height: 100% ;
-    border-radius: 50%}
+    display: block;
+    border-radius: 50%;
+    margin: 0 auto;}
 
 .about-text-container{
     margin: 0 auto;
     height: 300px;
     text-align: center;
-    padding: 70px 0;
+    padding: 20px 0;
+    flex-grow: 1;
 }
 
 
@@ -300,7 +305,7 @@ hr {
         margin: 20px;
     }
  }
-  
+
  @media screen and (min-width: 900px) {
     .gallery-container img {
         width: 32vw;
