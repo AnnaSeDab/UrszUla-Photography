@@ -227,7 +227,47 @@ hr {
     margin: 5vh auto;
     width:15vw;
   }
-  
+
+/* About */
+
+.about{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.photographer-picture-container{
+    width:300px;
+    height: 300px;
+    border-style: solid;
+    border-color: #cccccc;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.photographer-picture{
+    background: no-repeat center center;
+    height: 100% ;
+    border-radius: 50%}
+
+.about-text-container{
+    margin: 0 auto;
+    height: 300px;
+    text-align: center;
+    padding: 70px 0;
+}
+
+
+.about-text{
+    max-width: 400px;
+    padding: 0;
+    margin: auto;
+    text-align: justify;
+    color: #949599;
+    font-family: 'BenchNine', sans-serif;
+}
+
 
 /* media quieries */
 
