@@ -242,27 +242,29 @@ hr {
     max-width: 100vw;
 }
 
-.photographer-picture-container{
-    max-width:350px;
-    max-height: 350px;
+.photographer-picture-container{  
     border-style: solid;
     border-color: #cccccc;
     border-width: 3px;
     border-radius: 50%;
     margin: 0 auto;
     flex-grow: 1;
+    max-width: 500px;
+    max-height: 500px;
 }
 
 .photographer-picture{
+    width:100%; 
+    height:100%;
     background: no-repeat center center;
-    max-height: 350px ;
+    object-fit: cover;
     display: block;
     border-radius: 50%;
     margin: 0 auto;}
 
 .about-text-container{
-    margin: 0 auto;
-    max-height: 300px;
+    object-fit: cover;
+    margin: 0 auto;   
     padding: 20px 0;
     flex-grow: 1;
     align-items: center;
@@ -324,6 +326,13 @@ hr {
     }
 }
 
+@media screen and (max-width: 380px) {
+    .photographer-picture-container {
+        max-width:
+    }
+}
+
+
 @media screen and (min-width: 1387px) {
     .visible-testimonial {
         display: none !important;
@@ -338,7 +347,7 @@ hr {
         margin:0 40px;
     }
     .packages-headline {
-       font-size: 6em;
+       font-size: 4em;
     }
     .section-name {
         font-size: 4em;
