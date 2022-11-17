@@ -291,17 +291,18 @@ hr {
 
 .retouch-picture-container{
     max-width:350px;
-    height: 350px;
+    height: 500px;
     margin: 0 auto;
     flex-grow: 1;
 }
 
 .retouch-picture{
     background: no-repeat center center;
-    height: 100% ;
+    width: 100% ;
     display: block;
     border-radius: 8px;
-    margin: 0 auto;}
+    margin: 0 auto;
+    }
 
 .retouch-text-container{
     margin: 0 auto;
