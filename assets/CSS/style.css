@@ -8,6 +8,10 @@
     object-fit: cover;
       } 
 
+.carousel-restoration {
+    object-position: top;
+}
+
 /* testimonials */
 
 .testimonial-section {
