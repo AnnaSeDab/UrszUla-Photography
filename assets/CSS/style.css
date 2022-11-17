@@ -229,9 +229,12 @@ hr {
 
 /* About */
 
-.about-urszula {
+.about-urszula-header {
     margin-top: 40px;
-    margin-bottom: -20px;
+}
+
+.retouch-skills-header{
+    margin:3vh 0
 }
 
 .about{
