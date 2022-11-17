@@ -317,7 +317,6 @@ hr {
     font-family: 'BenchNine', sans-serif;
 }
 
-
 /* media quieries */
 
 @media screen and (max-width: 1386px) {
@@ -325,13 +324,6 @@ hr {
         display: none !important;
     }
 }
-
-@media screen and (max-width: 380px) {
-    .photographer-picture-container {
-        max-width:
-    }
-}
-
 
 @media screen and (min-width: 1387px) {
     .visible-testimonial {
