@@ -13,6 +13,9 @@
 .testimonial-section {
     margin: 0 20px;
 }
+.flexbox-container {
+    margin: 5vh;
+}
 
 .flexbox-container-text {
     font-family: 'BenchNine', sans-serif;
