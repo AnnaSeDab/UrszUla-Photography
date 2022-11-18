@@ -133,6 +133,10 @@ footer div {
 
 /* Gallery */
 
+.gallery {
+    margin-top: 45px;
+}
+
 .gallery-navigation {
     background-color: #e5e7ec;
     height: 45px;
