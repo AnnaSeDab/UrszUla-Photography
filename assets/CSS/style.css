@@ -171,7 +171,7 @@ footer div {
 
 .gallery-container img {
     width: 90vw; 
-    margin: 3px auto;
+    margin: 5px 5px;
     border-radius: 8px;
     object-fit: cover;
 }
@@ -361,6 +361,9 @@ hr {
     }
     .package-description{
         margin: 20px;
+    }
+    .gallery-container {
+        margin:0 16px;
     }
  }
 
