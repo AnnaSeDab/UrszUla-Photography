@@ -195,8 +195,7 @@ footer div {
 }
 
 .package{
-    display: flex;   
-    max-width: 100vw;
+    display: flex;    
     flex-wrap: wrap;
     align-items: baseline;
     justify-content: center;
@@ -210,22 +209,21 @@ footer div {
 
 .package-image { 
     display: inline;
-    margin: 7px auto;
+    margin: 7px 7px;
    }
 
 .package-image img { 
     border-radius: 8px;
     object-fit: cover;
-    max-width: 470px; 
-    min-width: 300px;
+    max-width: 95vw;
 }
 
 .package-description{
-    max-width: 470px; 
-    min-width: 300px;
+    max-width: 95vw; 
     object-fit: cover;
     font-family: 'BenchNine', sans-serif;
     text-align: center;
+    font-size: 1.3em;
 
 }
 
@@ -356,8 +354,19 @@ hr {
     .gallery {
         margin-top: 65px;
     }
+    .package{
+        margin: 0 10vw;
+    }
 }
 
+@media screen and (min-width: 500px) { 
+    .package-image img {
+        max-width: 475px;
+    }
+    .package-description{
+        max-width: 475px;
+    }
+}
 
 @media screen and (min-width: 800px) {
     .gallery-container img {
@@ -369,14 +378,15 @@ hr {
     .packages-headline {
        font-size: 4em;
     }
-    .section-name {
-        font-size: 4em;
-    }
+   
     .package-description{
         margin: 20px;
     }
     .gallery-container {
         margin:0 16px;
+    }
+    .package-image img{
+        margin: 0 40px;
     }
  }
 
@@ -404,27 +414,27 @@ hr {
     .gallery-container img {
         width: 24vw;
     }
+    .section-name{
+        font-size: 3em;
+    }
  }
   
- @media screen and (min-width: 1200px) {
+ @media screen and (min-width: 1164px) {
     .hide-big {
         display: none;}
-        .about{
-            margin: 0 18vw;
-        }
+
+    .about{
+        margin: 0 18vw;
+    }
+
+    .retouch{
+        margin: 0 18vw;
+    }
     
-        .retouch{
-            margin: 0 18vw;
-        }
-    }
+}
   
- @media screen and (max-width: 1199px) {
-        .hide-small {
-            display: none !important;
-        }
+ @media screen and (max-width: 1163px) {
+    .hide-small {
+        display: none !important;
     }
-  
- @media screen and (min-width: 1200px) {
-    .hide-big {
-        display: none;}
-    }
+}
