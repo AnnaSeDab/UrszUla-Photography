@@ -26,6 +26,7 @@
     text-align: justify;
     max-width: 400px;
     margin-top: 15px;
+    font-size: 1.3em;
 }
 
 .flexbox-container-picture {
@@ -37,7 +38,7 @@
 
 .button {
     display: block;
-    margin: 0 auto;
+    margin: 15px auto;
     width: 150px;
 
 }
@@ -224,7 +225,6 @@ footer div {
     font-family: 'BenchNine', sans-serif;
     text-align: center;
     font-size: 1.3em;
-
 }
 
 hr {
