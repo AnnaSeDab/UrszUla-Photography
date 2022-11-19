@@ -332,13 +332,13 @@ hr {
 
 /* media quieries */
 
-@media screen and (max-width: 1386px) {
+@media screen and (max-width: 1491px) {
     .hidden-testimonial {
         display: none !important;
     }
 }
 
-@media screen and (min-width: 1387px) {
+@media screen and (min-width: 1492px) {
     .visible-testimonial {
         display: none !important;
     }
