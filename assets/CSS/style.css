@@ -247,88 +247,92 @@ hr {
 }
 
 .about{
+    margin: 30px 4vw;
+    max-width: 100vw;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    margin: 30px 4vw;
-    max-width: 100vw;
+    justify-content: center;
+    gap: 20px;
 }
 
-.photographer-picture-container{  
+.photographer-picture-container{ 
     border-style: solid;
     border-color: #cccccc;
     border-width: 3px;
     border-radius: 50%;
-    margin: 0 auto;
     flex-grow: 1;
-    max-width: 500px;
-    max-height: 500px;
-}
-
-.photographer-picture{
-    width:100%; 
+    max-width: 450px;
+    max-height: 450px;
+ }
+  
+ .photographer-picture{
+    width:100%;
     height:100%;
     background: no-repeat center center;
     object-fit: cover;
     display: block;
     border-radius: 50%;
-    margin: 0 auto;}
+    margin: 0 auto;
+}
 
 .about-text-container{
     object-fit: cover;
-    margin: 0 auto;   
-    padding: 20px 0;
     flex-grow: 1;
-    align-items: center;
-}
-
-.about-text{
     max-width: 400px;
+}
+  
+ .about-text{
     padding: 0;
     margin: auto;
     text-align: center;
     color: #949599;
     font-family: 'BenchNine', sans-serif;
+    font-size: 1.3em;
 }
-
+ 
 .retouch {
+    margin: 30px 4vw;
+    max-width: 100vw;
     display: flex;
     flex-wrap: wrap-reverse;
     align-items: center;
-    margin: 30px 4vw;
-}
-
-.retouch-picture-container{
-    max-width:350px;
-    height: 500px;
-    margin: 0 auto;
+    justify-content: center;
+    gap: 20px;
+ }
+  
+ .retouch-picture-container{
     flex-grow: 1;
-}
-
-.retouch-picture{
+    max-width: 450px;
+    max-height: 450px;
+ }
+  
+ .retouch-picture{
+    width:100%;
+    height:100%;
     background: no-repeat center center;
-    width: 100% ;
+    object-fit: cover;
     display: block;
+    margin: 0 auto;
     border-radius: 8px;
-    margin: 0 auto;
     }
-
-.retouch-text-container{
-    margin: 0 auto;
-    max-height: 300px;
-    padding-top: 70px;
+  
+ .retouch-text-container{
+    object-fit: cover;
     flex-grow: 1;
-    align-items: center;
-}
-
-.retouch-text{
     max-width: 400px;
+ }
+  
+ .retouch-text{
     padding: 0;
     margin: auto;
     text-align: center;
     color: #949599;
     font-family: 'BenchNine', sans-serif;
-}
+    font-size: 1.3em;
+ }
+  
+ 
 
 /* media quieries */
 
@@ -390,23 +394,9 @@ hr {
     }
  }
 
- @media screen and (min-width: 816px) {
-    .about-text{ 
-        padding-top:50px;
-    }
-}
-
  @media screen and (min-width: 900px) {
     .gallery-container img {
         width: 32vw;
-    }
-
-    .about{
-        margin: 0 12vw;
-    }
-
-    .retouch{
-        margin: 0 12vw;
     }
  }
   
@@ -422,15 +412,6 @@ hr {
  @media screen and (min-width: 1164px) {
     .hide-big {
         display: none;}
-
-    .about{
-        margin: 0 18vw;
-    }
-
-    .retouch{
-        margin: 0 18vw;
-    }
-    
 }
   
  @media screen and (max-width: 1163px) {
