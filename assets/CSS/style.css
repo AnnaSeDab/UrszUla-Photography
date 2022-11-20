@@ -17,7 +17,7 @@
 .testimonial-section {
     margin: 0 20px;
 }
-.flexbox-container {
+.testimonials-container {
     margin: 5vh;
 }
 
@@ -187,7 +187,7 @@ footer div {
 
 /* Pckages */
 
-.packages-headline {
+.headline {
     color: #949599;
     font-family: 'BenchNine', sans-serif;
     font-size: 10vw;
@@ -380,7 +380,7 @@ hr {
     .package{
         margin:0 40px;
     }
-    .packages-headline {
+    .headline {
        font-size: 4em;
     }
    
