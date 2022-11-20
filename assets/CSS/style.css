@@ -346,7 +346,17 @@ hr {
     font-size: 1.3em;
  }
   
- 
+/* submission */
+
+.submission {
+    margin-top: 30vh;
+}
+
+.submission-text{
+    font-family: 'BenchNine', sans-serif;
+    text-align: center;
+    font-size: 1.2em;
+}
 
 /* media quieries */
 
