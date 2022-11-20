@@ -198,7 +198,7 @@ footer div {
 .package{
     display: flex;    
     flex-wrap: wrap;
-    align-items: baseline;
+    align-items: center;
     justify-content: center;
 }
 .section-name{
@@ -225,6 +225,7 @@ footer div {
     font-family: 'BenchNine', sans-serif;
     text-align: center;
     font-size: 1.3em;
+    color: #949599;
 }
 
 hr {
