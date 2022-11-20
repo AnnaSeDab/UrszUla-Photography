@@ -133,6 +133,14 @@ footer div {
     font-family: 'BenchNine', sans-serif;
     }
 
+.location {
+   margin:60px auto;
+   font-family: 'BenchNine', sans-serif;
+   text-align:center;
+   max-width: 95vw;
+   font-size: 1.2em;
+}
+
 /* Gallery */
 
 .gallery {
