@@ -51,7 +51,9 @@
 
 .contact-form {
     margin-top: 20px;
-    
+    position: relative;
+    z-index: 2;
+    background-color: white;
 }
 
 .contact-form-heading{
@@ -111,6 +113,7 @@ footer {
     position: fixed;
     bottom: 0;
     right: 0;
+    z-index: 3;
     }
 
 footer div {
@@ -157,6 +160,7 @@ footer div {
     text-align: center;
     position: fixed;
     width: 100vw;
+    z-index: 1;
      }
 
 .gallery-navigation li {
