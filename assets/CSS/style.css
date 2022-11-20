@@ -31,9 +31,10 @@
 
 .flexbox-container-picture {
     display: block;
-    max-width: 300px;
+    max-width: 90vw; 
     margin: 0 auto;
     object-fit: cover;
+    border-radius: 8px;
 }
 
 .button {
@@ -362,6 +363,10 @@ hr {
     .package{
         margin: 0 10vw;
     }
+
+    .flexbox-container-picture{
+        width: 400px;
+    }
 }
 
 @media screen and (min-width: 500px) { 
@@ -377,6 +382,7 @@ hr {
     .gallery-container img {
         width: 49vw;
     }
+
     .package{
         margin:0 40px;
     }
