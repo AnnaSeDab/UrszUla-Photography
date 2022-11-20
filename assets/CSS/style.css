@@ -1,8 +1,14 @@
-/*caroussel*/
 
 .navbar{
    background-color: #adadad;
 }
+
+.logo {
+    height:40px;
+    width:auto;
+}
+
+/*caroussel*/
 
 .carousel-item img {
     height: 90vh; 
