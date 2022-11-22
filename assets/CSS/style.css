@@ -3,6 +3,13 @@
    background-color: #adadad;
 }
 
+.nav{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 4;
+}
+
 .logo {
     height:55px;
     width:auto;
@@ -134,7 +141,7 @@ footer div {
     }
 
 .link-socmed:hover {
-    color: #c0c0fa;
+    color: #9aacf8;
     }
 
 .copyright {position:absolute; 
@@ -156,7 +163,7 @@ footer div {
 /* Gallery */
 
 .gallery {
-    margin-top: 45px;
+    margin-top: 71px;
 }
 
 .gallery-navigation {
@@ -190,6 +197,7 @@ footer div {
     display: flex;   
     max-width: 100vw;
     justify-content: center;  
+    margin-top: 30px;
 }
 
 .gallery-container img {
