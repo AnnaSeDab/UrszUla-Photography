@@ -217,6 +217,10 @@ footer div {
 
 /* Pckages */
 
+.packages{
+    margin-top: 90px;
+}
+
 .headline {
     color: #949599;
     font-family: 'BenchNine', sans-serif;
@@ -277,7 +281,11 @@ hr {
 }
 
 .about{
-    margin: 30px 4vw;
+    margin-top: 90px;
+}
+
+.about-flex{
+    margin: 20px 4vw;
     max-width: 100vw;
     display: flex;
     flex-wrap: wrap;
