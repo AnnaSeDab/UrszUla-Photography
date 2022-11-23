@@ -10,11 +10,11 @@ UrszUla Photography is a website made for a photographer who is trying to grow h
 [See live website](https://annasedab.github.io/UrszUla-Photography/)
 
 ---
-## Project goals:
+## Project goals
 
 - Encouraging users to book a photo session with the photographer
 - Presenting abilities of the photographer
-- Showing how professional and at the same time accommodation the photographer is
+- Showing how professional and at the same time accommodating the photographer is
 - Presenting most popular packages and prices to give an idea of the options 
 - Pointing out how the service can be given as a present
 - Providing with testimonials of happy customers
