@@ -3,7 +3,7 @@
 ## Code Institute - Milestone Project 1
 
 
- 	![Mockup of the UrszUla Photography website viewed on a desktop, tablet and mobile device](image.jpg)
+ 	![Mockup of the UrszUla Photography website viewed on a desktop, tablet and mobile device](moskup-image.jpg)
 
 UrszUla Photography is a website made for a photographer who is trying to grow her business. 
 
