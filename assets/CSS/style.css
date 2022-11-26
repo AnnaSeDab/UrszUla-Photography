@@ -65,7 +65,7 @@ body {
 /* Contact form */
 
 .contact-form {
-    margin-top: 20px;
+    padding-bottom: 20px;
     position: relative;
     z-index: 2;
     background-color: white;
@@ -156,7 +156,7 @@ footer div {
     }
 
 .location {
-   margin:60px auto;
+   margin:60px auto 110px auto;
    font-family: 'BenchNine', sans-serif;
    text-align:center;
    max-width: 95vw;
