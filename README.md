@@ -124,19 +124,28 @@ Flexbox containing description and example of the photographer's photoshop skill
 -MARKDOWN
 -JavaScript
 
+---
+
 ## Resources used
+ 
+- Bootstrap Framework v4.5 - used to add carousel, navigation bar, flexbox on the index.html page
+- Font awesome - importing facebook and instagram icons used
+- Google fonts - importing fonts used on the website
+- W3Schools - used to find solutions to problems with code
+- Firefox developer tools - checking responsiveness and observing effect of code changes in real time
+- Slack - used to find the solutions for the encountered problems with code, Github and Gitpod services
+- Canva - used for creating wireframes
+- Github - used as a repository and to host the deployed website
+- Gitpod - used to build and develop the website
+- Code Institute - used to review concepts covered in the course
+- Lighthouse - used to check responsiveness of the website
+- W3C CSS Validation Service - used to validate the CSS file
+- W3C HTML Validation Service - used to validate the HTML files
+- CodeBeautify - used to beautify CSS and HTML code
+- Coolor - used to create colour palette
+- Am I responsive - used to create mock up image of ho the website will look on different screen sizes
 
-### Bootstrap
-
-### Font awesome
-
-### Google fonts
-
-### W3Schools 
-
-### Firefox development tools
-
-### Slack
+---
 
 ## Testing
 
