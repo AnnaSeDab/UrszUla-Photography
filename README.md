@@ -37,11 +37,13 @@ The most important factor in creating and designing website was showcasing the a
 
 ### Colour Scheme
 
-Colour palette is very toned down with white background and grey elements not to clash with colours of the photographs. The only other colour introduced is light blue #9aacf8 which is used in the logo designed by the photographer. The same colour is also used on social media icons upon hoover action. 
+Colour palette is toned down with very light background and grey elements not to clash with colours of the photographs. The only other colour introduced is blue #9aacf8 which is used in the logo designed by the photographer. The same colour is also used on social media icons upon hoover action. 
+
+![Color scheme palette](assets/images/color%20palette.png)
 
 ### Typography
 
-The font used for most of the text including the headers is BenchNine. The font used in contact section 
+The font used for most of the text including the headers is BenchNine. The font used in contact section is Great Vibes.  
 Both are imported from Google fonts using a link placed in the head of html documents
 
 ### Images
