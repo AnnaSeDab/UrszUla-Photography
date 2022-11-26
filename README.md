@@ -127,13 +127,12 @@ Flexbox containing description and example of the photographer's photoshop skill
  
 ---
  
-
 ## Languages used
-
--HTML
--CSS
--MARKDOWN
--JavaScript
+ 
+- HTML
+- CSS
+- MARKDOWN
+- JavaScript (imported form Bootstrap Framework)
 
 ---
 
