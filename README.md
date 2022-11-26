@@ -163,7 +163,15 @@ Flexbox containing description and example of the photographer's photoshop skill
 
 ### HTML Validatior
 
+HTML validator suggested adding heading to the carousel(index.html), gallery navigation(gallery.html) and location(all pages). I ecided it would not be beneficial to the website to do so.
+
+![Screenshot of HTML validator results](assets/images/html-validator.png)
+
 ### CSS Validator
+
+CSS code was validated without problems.
+
+![Screenshot of CSS validator results](assets/images/CSS-validator.png)
 
 ### Canva
 
