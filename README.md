@@ -11,23 +11,30 @@ UrszUla Photography is a website made for a photographer who is trying to grow h
 
 ---
 ## Project goals
-
+ 
 - Encouraging users to book a photo session with the photographer
 - Presenting abilities of the photographer
-- Showing how professional and at the same time accommodating the photographer is
-- Presenting most popular packages and prices to give an idea of the options 
+- Showing how professional and at the same time approachable the photographer is
+- Presenting the most popular packages and prices to give an idea of the options
 - Pointing out how the service can be given as a present
-- Providing with testimonials of happy customers
-
+- Providing testimonials of happy customers
+ 
 ---
-
+ 
 ## User Stories
-
-- People who want their portrait picture taken.
-- People who want to have photographs of their newborn baby taken.
-- People who want to gift a photo session to someone else.
-- People who want to ask questions about photography services.
-- People who want to have their black and white pictures restored.
+ 
+- I want to see the photographer's work
+- I want to know what other people say about photographer
+- I want to ask questions about services
+- I want to know how much services cost
+- I want to have my portrait taken
+- I want to have photographs of my newborn baby taken
+- I want to gift a photo session as a present to someone else
+- I want to have old black and white pictures restored
+- I want to know about photographer’s skills
+- I want to know where the photo studio is located
+ 
+ 
 
 ---
 
