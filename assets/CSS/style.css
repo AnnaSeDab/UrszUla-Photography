@@ -20,6 +20,10 @@ body {
   
   /*caroussel*/
   
+  .carousel {
+    margin-top: 71px;
+  }
+
   .carousel-item img {
     height: 90vh;
     overflow: hidden;
