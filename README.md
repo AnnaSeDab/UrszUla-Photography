@@ -173,12 +173,30 @@ CSS code was validated without problems.
 
 ![Screenshot of CSS validator results](assets/images/CSS-validator.png)
 
-### Canva
-
 ## Responsiveness
 
 Website was developed simultaneously for mobile and desktop view. Media queries were used to adjust content to every other resolution. Use of flexboxes allows the content to shift, stretch and move depending on the screen size.
 
 ## Deployment
+
+- Logg to the Github website
+- Select **UrszUlaPhotography** repository
+- Select **Settings** from the navigation bar
+- Select **Pages** from the menu on the left
+- Pick source **Deploy from branch**
+- Pick branch **main**
+- Click save button
+- Link to the website appeares at the top of the page
+
+## Cloning the Github repository
+
+- Logg in to the Github
+- Select **UrszUlaPhotography** repository
+- Click on the **Code** button located next to the green Gitpod button
+- Copy link form the HTTPS section
+- Open terminal
+- Change the current working directory to the location where you want the cloned directory
+- Type "git clone" and the previously copier URL
+- Press **Enter** 
 
 ## Credits
