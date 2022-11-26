@@ -67,28 +67,55 @@ The website was designed simultaneously for desktop and mobile devices. Wirefram
 ---
 
 ## Features
-
-### Navigation bar
-
-### Carousel
-
-### Testimonials
-
-### Contact form
-
-### Thank you page
-
-### Footer
-
-### Gallery navigation
-
-### Gallery
-
-### Packages
-
-### About
-
-### Photoshop skills
+### Features present on all pages
+ 
+- Navigation bar
+Main navigation bar is visible on all of the pages and is glued to the top. It was created using Bootstrap Framework. Links collapse on the smaller screen sizes into a 'hamburger menu'.
+ 
+It contains the logo of the photographer and the menu links. Links under ‘Gallery’, ‘About’ and ‘Packages’ take the user to the respective pages. Clicking on 'Contact us' takes the user to the contact form at the bottom of the page.
+ 
+- Contact form
+To make it easy for the user to contact the photographer the form is present at the bottom of each page. Also the 'Contact us' link in the navigation bar takes the user to the bottom of the page.
+ 
+- Footer
+Contains links to the facebook and instagram pages which upon clicking open on new pages. Icons are imported from Font Awesome. Colours showing upon hover action match the colour introduced in the logo
+ 
+- Location
+ 
+Location of the photographer is added below the contact form. It serves two purposes:
+1) It answers potential questions the user might have regarding the location.
+2) It pushes the contact form towards the centre of the page when the user clicks ‘Contact us’ from the navigation bar.
+ 
+### Features on index.html
+- Carousel
+Carousel was created using Bootstrap Framework. It is the first thing that the user will see when entering the website and is showing off the skills of the photographer.
+- Testimonials
+ 
+Testimonials chosen for the page highlight the skills of the photographer. Baby session testimonial also points out it can be booked as a gift.
+### Features on contact-submission.html - Thank you page
+It's a simple page showing upon completing the contact form.
+Page contains navigation and footer so it is possible to go back to whatever part of the website without needing to use the browsers/mobile devices navigation.
+### Features on gallery.html
+- Gallery navigation
+ 
+Gallery navigation is glued underneath the main navigation to make it easy to jump between sections which is especially useful for the mobile device users.
+- Gallery
+ 
+Gallery is created using flex-box. It shows pictures from the photo sessions and before & after of the restored old photographs.
+### Features on packages.html
+ 
+- Packages
+ 
+Flexbox contains pricing and the description of the most popular packages and an example picture. Description suggests modifications that might be added to the package and encourages to contact the photographer.
+### Features on about.html
+- About photographer
+ 
+Flexbox containing a picture of the photographer and info about them.
+- Photoshop skills
+Flexbox containing description and example of the photographer's photoshop skills.
+ 
+---
+ 
 
 ## Languages used
 
