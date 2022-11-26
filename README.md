@@ -34,30 +34,32 @@ UrszUla Photography is a website made for a photographer who is trying to grow h
 - I want to know about photographer’s skills
 - I want to know where the photo studio is located
  
- 
-
 ---
 
 ## Design
-
+ 
 The most important factor in creating and designing website was showcasing the abilities of the photographer. Each page contains pictures that are meant to inspire potential clients to book a photo session.
-
+ 
 ### Colour Scheme
-
+ 
 Colour palette is toned down with very light background and grey elements not to clash with colours of the photographs. The only other colour introduced is blue #9aacf8 which is used in the logo designed by the photographer. The same colour is also used on social media icons upon hoover action. 
 
 ![Color scheme palette](assets/images/color%20palette.png)
-
+ 
 ### Typography
-
-The font used for most of the text including the headers is BenchNine. The font used in contact section is Great Vibes.  
-Both are imported from Google fonts using a link placed in the head of html documents
-
+ 
+The font used for most of the text including the headers is BenchNine.
+The font used in the contact section Great vibes is meant to give a bit of artistic feel to the website.
+Both are imported from Google fonts using a link placed in the head of each html page.
+ 
 ### Images
-
+ 
 All used images are intellectual property of UrszUla photographer. Full permission was given to use them for the purposes of the Milestone Project 1. 
-
+ 
 ### Icons
+ 
+Icons used in the footer of the website were imported from Font Awesome using a link placed in the head of each html page.
+
 
 ---
  
