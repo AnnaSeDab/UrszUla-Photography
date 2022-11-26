@@ -50,14 +50,21 @@ All used images are intellectual property of UrszUla photographer. Full permissi
 
 ### Icons
 
-
+---
+ 
 ## Wireframes
-
-The website was designed simultaneously for desktop and mobile devices. During creation process media queries were introduced to make sure it look good on every screen type. 
-
+ 
+The website was designed simultaneously for desktop and mobile devices. Wireframes were creatied using Canva online graphic design tool. During the creation some of the features and their placement was adjusted to make website moretransparent. For example testimmoials in the mobile device version were ment to be placed on the pictures, however, as there was not enough space to do that decision was made to move them below corresponding pictures.
+ 
 ### Desktop
-
+ 
+![Picture of wireframe for desktop devices](assets/images/wireframe%20desktop.webp)
+ 
 ### Mobile
+ 
+![Picture of wireframe for mobile devices](assets/images/wireframe%20mobile.webp)
+ 
+---
 
 ## Features
 
