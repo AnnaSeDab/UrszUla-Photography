@@ -81,15 +81,16 @@ The website was designed simultaneously for desktop and mobile devices. Wirefram
 ### Features present on all pages
  
 - Navigation bar
-Main navigation bar is visible on all of the pages and is glued to the top. It was created using Bootstrap Framework. Links collapse on the smaller screen sizes into a 'hamburger menu'.
- 
-It contains the logo of the photographer and the menu links. Links under ‘Gallery’, ‘About’ and ‘Packages’ take the user to the respective pages. Clicking on 'Contact us' takes the user to the contact form at the bottom of the page.
+
+Main navigation bar is visible on all of the pages and is fixed to the top of the page. It was created using Bootstrap Framework. Links collapse on the smaller screen sizes into a 'hamburger menu'. It contains the logo of the photographer and the menu links. Links under ‘Gallery’, ‘About’ and ‘Packages’ take the user to the respective pages. Clicking on 'Contact us' takes the user to the contact form at the bottom of the page.
  
 - Contact form
-To make it easy for the user to contact the photographer the form is present at the bottom of each page. Also the 'Contact us' link in the navigation bar takes the user to the bottom of the page.
+
+To make it easy for the user to contact the photographer the form is present at the bottom of each page. Also the 'Contact us' link in the navigation bar takes the user to the contact fom section.
  
 - Footer
-Contains links to the facebook and instagram pages which upon clicking open on new pages. Icons are imported from Font Awesome. Colours showing upon hover action match the colour introduced in the logo
+
+Contains links to the facebook and instagram pages which upon clicking open on new pages. Icons are imported from Font Awesome. Colours showing upon hover action match the colour introduced in the logo. 
  
 - Location
  
@@ -105,22 +106,23 @@ Carousel was created using Bootstrap Framework. It is the first thing that the u
 
 - Introduction
 
-First block of text that te user will see introducing the photograpgher. 
+First block of text that the user will see introducing the photograpgher. 
 
 - Testimonials
  
-Testimonials chosen for the page highlight the skills of the photographer. Baby session testimonial also points out it can be booked as a gift.
+Testimonials chosen for the page to highlight the skills of the photographer. Baby session testimonial also points out it can be booked as a gift.
 
 ### Features on contact-submission.html - Thank you page
 
 It's a simple page showing upon completing the contact form.
-Page contains navigation and footer so it is possible to go back to whatever part of the website without needing to use the browsers/mobile devices navigation.
+Page contains navigation and footer so it is possible to go back to whatever part of the website without needing to use the browsers/mobile device's navigation.
 
 ### Features on gallery.html
 
 - Gallery navigation
  
-Gallery navigation is glued underneath the main navigation to make it easy to jump between sections which is especially useful for the mobile device users.
+Gallery navigation is glued underneath the main navigation to make it easy to jump between gellery sections which is especially useful for the mobile device users.
+
 - Gallery
  
 Gallery is created using flex-box. It shows pictures from the photo sessions and before & after of the restored old photographs.
@@ -129,14 +131,16 @@ Gallery is created using flex-box. It shows pictures from the photo sessions and
  
 - Packages
  
-Flexbox contains pricing and the description of the most popular packages and an example picture. Description suggests modifications that might be added to the package and encourages to contact the photographer.
+Flexbox contains pricing and the description of the most popular packages and an example picture. Prices are added to give users an idea of how much the services cost.
 
 ### Features on about.html
 
 - About photographer
  
 Flexbox containing a picture of the photographer and info about them.
+
 - Photoshop skills
+
 Flexbox containing description and example of the photographer's photoshop skills.
  
 ---
@@ -169,7 +173,7 @@ Flexbox containing description and example of the photographer's photoshop skill
 - CodeBeautify - used to beautify CSS and HTML code
 - Coolor - used to create colour palette
 - Am I responsive - used to create mock up image of ho the website will look on different screen sizes
-- Picresize - used for resizing pictures
+- Gimp - used for resizing and converting pictures
 
 ---
 
