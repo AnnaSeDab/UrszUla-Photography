@@ -98,27 +98,41 @@ Location of the photographer is added below the contact form. It serves two purp
 2) It pushes the contact form towards the centre of the page when the user clicks ‘Contact us’ from the navigation bar.
  
 ### Features on index.html
+
 - Carousel
+
 Carousel was created using Bootstrap Framework. It is the first thing that the user will see when entering the website and is showing off the skills of the photographer.
+
+- Introduction
+
+First block of text that te user will see introducing the photograpgher. 
+
 - Testimonials
  
 Testimonials chosen for the page highlight the skills of the photographer. Baby session testimonial also points out it can be booked as a gift.
+
 ### Features on contact-submission.html - Thank you page
+
 It's a simple page showing upon completing the contact form.
 Page contains navigation and footer so it is possible to go back to whatever part of the website without needing to use the browsers/mobile devices navigation.
+
 ### Features on gallery.html
+
 - Gallery navigation
  
 Gallery navigation is glued underneath the main navigation to make it easy to jump between sections which is especially useful for the mobile device users.
 - Gallery
  
 Gallery is created using flex-box. It shows pictures from the photo sessions and before & after of the restored old photographs.
+
 ### Features on packages.html
  
 - Packages
  
 Flexbox contains pricing and the description of the most popular packages and an example picture. Description suggests modifications that might be added to the package and encourages to contact the photographer.
+
 ### Features on about.html
+
 - About photographer
  
 Flexbox containing a picture of the photographer and info about them.
