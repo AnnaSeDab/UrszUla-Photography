@@ -173,7 +173,26 @@ CSS code was validated without problems.
 
 ![Screenshot of CSS validator results](assets/images/CSS-validator.png)
 
+### Manual tests
+ 
+Throughout creation the website was tested for its responsivenes.
+ 
+Upon completing website was tested on following browsers and devices:
+ 
+- Desktop browsers:
+   - Firefox
+   - Chromium
+   - Chrome
+- Mobile devices:
+   - Galaxy S7
+   - Huawei ELE-L29
+
+also in Firefox developer tools on different screen sizes.
+ 
+Testing included resizing of the screen, scrolling, clicking on links and buttons, hovering over links, submitting the form, making sure links open in new pages.
+
 ---
+
 ## Fixed bugs
 
 Scrollbar in Chromium causing page to overflow. - Added code to the body element:
