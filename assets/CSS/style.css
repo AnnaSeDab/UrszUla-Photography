@@ -6,7 +6,7 @@ h1 {
   margin-top: 0.5rem;
 }
 .navbar {
-  background-color: #aaaaac;
+  background-color:#CDCDCE;
 }
 
 .nav {
@@ -79,7 +79,7 @@ h1 {
 }
 
 .contact-form-heading {
-  background-color: #aaaaac;
+  background-color: #CDCDCE;
   position: relative;
   width: 100vw;
 }
@@ -126,7 +126,7 @@ h1 {
 /* Footer */
 
 footer {
-  background-color: #aaaaac;
+  background-color: #CDCDCE;
   height: 50px;
   position: fixed;
   bottom: 0;
@@ -170,7 +170,7 @@ footer div {
 /* Gallery */
 
 .gallery-navigation {
-  background-color: #b2b2b4;
+  background-color: #CDCDCE;
   height: 45px;
   top: 71px;
   padding: 7px;
@@ -198,7 +198,7 @@ footer div {
 }
 
 .gallery-navigation a:hover {
-  border-bottom: 1px solid #777777;
+  border-bottom: 1px solid #606166;
 }
 
 .gallery-container {
@@ -217,7 +217,7 @@ footer div {
 .gallery-text {
   font-family: "BenchNine", sans-serif;
   text-align: center;
-  color: #aaaaac;
+  color: #606166;
 }
 .gallery25 {
   object-position: right;
@@ -271,7 +271,7 @@ footer div {
 
 hr {
   border: 0;
-  color: #aaaaac;
+  color: #606166;
   border-top: 2px solid;
   border-radius: 5px;
   margin: 5vh auto;
@@ -304,7 +304,7 @@ hr {
 
 .photographer-picture-container {
   border-style: solid;
-  border-color: #aaaaac;
+  border-color: #CDCDCE;
   border-width: 3px;
   border-radius: 50%;
   flex-grow: 1;

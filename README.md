@@ -3,7 +3,7 @@
 ## Code Institute - Milestone Project 1
 
 
- 	![Mockup of the UrszUla Photography website viewed on a desktop, tablet and mobile device](moskup-image.jpg)
+![Mockup of the UrszUla Photography website viewed on a desktop, tablet and mobile device]()
 
 UrszUla Photography is a website made for a photographer who is trying to grow her business. 
 
@@ -44,7 +44,7 @@ The most important factor in creating and designing website was showcasing the a
  
 Colour palette is toned down with very light background and grey elements not to clash with colours of the photographs. The only other colour introduced is blue #9aacf8 which is used in the logo designed by the photographer. The same colour is also used on social media icons upon hoover action. 
 
-![Color scheme palette](assets/images/color%20palette.png)
+![Color scheme palette](assets/images/colour-palette.png)
  
 ### Typography
  
@@ -60,12 +60,11 @@ All used images are intellectual property of UrszUla photographer. Full permissi
  
 Icons used in the footer of the website were imported from Font Awesome using a link placed in the head of each html page.
 
-
 ---
  
 ## Wireframes
  
-The website was designed simultaneously for desktop and mobile devices. Wireframes were creatied using Canva online graphic design tool. During the creation some of the features and their placement was adjusted to make website moretransparent. For example testimmoials in the mobile device version were ment to be placed on the pictures, however, as there was not enough space to do that decision was made to move them below corresponding pictures.
+The website was designed simultaneously for desktop and mobile devices. Wireframes were creatied using Canva online graphic design tool. During the creation some of the features and their placement was adjusted to make website more transparent. For example testimonials in the mobile device version were ment to be placed on the pictures, however, as there was not enough space to do that decision was made to move them below corresponding pictures.
  
 ### Desktop
  
@@ -78,6 +77,7 @@ The website was designed simultaneously for desktop and mobile devices. Wirefram
 ---
 
 ## Features
+
 ### Features present on all pages
  
 - Navigation bar
