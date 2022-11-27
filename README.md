@@ -235,6 +235,8 @@ On smaller screens 'hamburger menu' does not fold back after clicking 'Get in to
 
 Contact form options font is not affected by the formating in Firefox browser.
 
+CSS formating and images did not load on the deployed page in Firefox browser. At the same time Gitpod preview and deployed site in Chromium worked without problems. The bug dissapeared next time I turned on the computer, however, I was not able to figure out what happened therefore I consider it unfixed bug and hope it will not happened again or if it does, I will be able to figure out what causes it.
+
 ---
 
 ## Responsiveness
