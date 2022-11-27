@@ -114,22 +114,22 @@
       <form class="centered-input" action="contact-submission.html" method="GET">
         <label class="form-text" for="type-of-service">-Which package would you like to choose?-</label>
         <select class="form-control form-element" id="type-of-service">
+          <option>I'm not sure yet</option>
           <option>Portrait</option>
           <option>Baby pictures</option>
           <option>Retouch of old photos</option>
-          <option>Other</option>
         </select>
-        <input type="text" class="form-control form-element" placeholder="Name">
-        <input type="email" class="form-control form-element" id="exampleFormControlInput1" placeholder="Email">
+        <input type="text" class="form-control form-element" name="first-name" placeholder="Name" required>
+        <input type="email" class="form-control form-element" id="exampleFormControlInput1" name="email-address" placeholder="Email" required>
         <label class="form-text" for="exampleFormControlTextarea1">-Tell us more about your plans-</label>
-        <textarea class="form-control form-text-area" id="exampleFormControlTextarea1" rows="3"></textarea>
+        <textarea class="form-control form-text-area" id="exampleFormControlTextarea1" name="question-or-booking-details" rows="3" required></textarea>
         <button type="submit" class="btn btn-secondary button form-element">Send</button>
       </form>
     </section>
 
-           <!--location-->
+    <!--location-->
  
-     <section class="location">
+    <section class="location">
       <p> My studio is based in Maidstone.</p>
       <p>For portrait photoshoots I will be happy to travel <br>
        anywhere in Kent and Greater London area.</p>
