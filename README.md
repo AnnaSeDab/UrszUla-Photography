@@ -226,6 +226,15 @@ Website was developed simultaneously for mobile and desktop view. Media queries 
 
 ---
 
+## Forking the Github repository
+
+- Logg in to the Github
+- Select repository you want to fork
+- Click on the **Fork** button located on the right top section of the page
+- The copy of oryginal repository is made into your Github account
+
+---
+
 ## Credits
 
 With exeption of the code pulled from Bootstrap Framework all content was written by me.
