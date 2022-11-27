@@ -69,6 +69,20 @@ h1 {
   background-color: #606166;
 }
 
+/* Introduction */
+
+.introduction-container{
+  margin: 5vh;
+}
+
+.introduction-text {
+  margin: 0 auto;
+  max-width: 600px;
+  font-family: "BenchNine", sans-serif;
+  text-align: center;
+  font-size: 1.3em;
+}
+
 /* Contact form */
 
 .contact-form {
