@@ -173,9 +173,26 @@ CSS code was validated without problems.
 
 ![Screenshot of CSS validator results](assets/images/CSS-validator.png)
 
+---
+## Fixed bugs
+
+
+
+---
+ 
+## Unfixed bugs
+ 
+On smaller screens 'hamburger menu' does not fold back after clicking 'Get in touch'. From wahat I understand the solution requires Java script and it will be something I am plannin on solving in the near future when I start learning Java script.
+
+Contact form options font is not affected by the formating in Firefox browser.
+
+---
+
 ## Responsiveness
 
 Website was developed simultaneously for mobile and desktop view. Media queries were used to adjust content to every other resolution. Use of flexboxes allows the content to shift, stretch and move depending on the screen size.
+
+---
 
 ## Deployment
 
@@ -188,6 +205,8 @@ Website was developed simultaneously for mobile and desktop view. Media queries 
 - Click save button
 - Link to the website appeares at the top of the page
 
+---
+
 ## Cloning the Github repository
 
 - Logg in to the Github
@@ -198,5 +217,7 @@ Website was developed simultaneously for mobile and desktop view. Media queries 
 - Change the current working directory to the location where you want the cloned directory
 - Type "git clone" and the previously copier URL
 - Press **Enter** 
+
+---
 
 ## Credits
