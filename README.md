@@ -176,6 +176,14 @@ CSS code was validated without problems.
 ---
 ## Fixed bugs
 
+Scrollbar in Chromium causing page to overflow. - Added code to the body element:
+
+    max-width: 100%;
+    overflow-x: hidden;
+    overflow-y: scroll;
+
+Gallery navigation scrolling over contact form section. - Gave z-index property to the relevant elements.
+
 
 
 ---
