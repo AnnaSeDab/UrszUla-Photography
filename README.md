@@ -184,8 +184,6 @@ Scrollbar in Chromium causing page to overflow. - Added code to the body element
 
 Gallery navigation scrolling over contact form section. - Gave z-index property to the relevant elements.
 
-
-
 ---
  
 ## Unfixed bugs
@@ -229,3 +227,11 @@ Website was developed simultaneously for mobile and desktop view. Media queries 
 ---
 
 ## Credits
+
+With exeption of the code pulled from Bootstrap Framework all content was written by me.
+
+---
+
+## Acknowledgements
+
+Huge thank you to my mentor Mitko Bachvarov for guiding me through the project and the photographer Urszula for providing me with all the images and feedback on the website design.
