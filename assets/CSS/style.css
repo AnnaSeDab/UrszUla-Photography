@@ -59,6 +59,7 @@ h1 {
 .flexbox-container-picture {
   display: block;
   width: 400px;
+  height: 266.8px;
   margin: 0 auto;
   object-fit: cover;
   border-radius: 8px;
