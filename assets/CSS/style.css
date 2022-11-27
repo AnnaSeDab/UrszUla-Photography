@@ -18,7 +18,7 @@ h1 {
 
 .logo {
   height: 55px;
-  width: auto;
+  width: 227.75;
 }
 
 /*caroussel*/
@@ -56,7 +56,7 @@ h1 {
 
 .flexbox-container-picture {
   display: block;
-  max-width: 90vw;
+  width: 400px;
   margin: 0 auto;
   object-fit: cover;
   border-radius: 8px;
@@ -416,6 +416,12 @@ hr {
   }
 }
 
+@media screen and (max-width: 420px) {
+  .flexbox-container-picture {
+    max-width: 90vw;
+  }
+}
+
 @media screen and (min-width: 400px) {
   .gallery-navigation li {
     font-size: 27px;
@@ -427,10 +433,6 @@ hr {
 
   .package {
     margin: 0 10vw;
-  }
-
-  .flexbox-container-picture {
-    width: 400px;
   }
 }
 
