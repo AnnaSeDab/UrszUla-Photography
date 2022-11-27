@@ -156,6 +156,7 @@ Flexbox containing description and example of the photographer's photoshop skill
 - Font awesome - importing facebook and instagram icons used
 - Google fonts - importing fonts used on the website
 - W3Schools - used to find solutions to problems with code
+- Stack overflow - used to used to find solutions to problems with code
 - Firefox developer tools - checking responsiveness and observing effect of code changes in real time
 - Slack - used to find the solutions for the encountered problems with code, Github and Gitpod services
 - Canva - used for creating wireframes
@@ -168,6 +169,7 @@ Flexbox containing description and example of the photographer's photoshop skill
 - CodeBeautify - used to beautify CSS and HTML code
 - Coolor - used to create colour palette
 - Am I responsive - used to create mock up image of ho the website will look on different screen sizes
+- Picresize - used for resizing pictures
 
 ---
 
