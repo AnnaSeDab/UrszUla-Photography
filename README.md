@@ -3,7 +3,7 @@
 ## Code Institute - Milestone Project 1
 
 
-![Mockup of the UrszUla Photography website viewed on a desktop, tablet and mobile device]()
+![Mockup of the UrszUla Photography website viewed on a desktop, tablet and mobile device](assets/readme-images/pagemockup.jpg)
 
 UrszUla Photography is a website made for a photographer who is trying to grow her business. 
 
@@ -44,7 +44,7 @@ The most important factor in creating and designing website was showcasing the a
  
 Colour palette is toned down with very light background and grey elements not to clash with colours of the photographs. The only other colour introduced is blue #9aacf8 which is used in the logo designed by the photographer. The same colour is also used on social media icons upon hoover action. 
 
-![Color scheme palette](assets/images/colour-palette.png)
+![Color scheme palette](assets/readme-images/colour-palette.png)
  
 ### Typography
  
@@ -68,11 +68,11 @@ The website was designed simultaneously for desktop and mobile devices. Wirefram
  
 ### Desktop
  
-![Picture of wireframe for desktop devices](assets/images/wireframe%20desktop.webp)
+![Picture of wireframe for desktop devices](assets/readme-images/wireframe%20desktop.webp)
  
 ### Mobile
  
-![Picture of wireframe for mobile devices](assets/images/wireframe%20mobile.webp)
+![Picture of wireframe for mobile devices](assets/readme-images/wireframe%20mobile.webp)
  
 ---
 
@@ -177,17 +177,21 @@ Flexbox containing description and example of the photographer's photoshop skill
 
 ### Lighthouse
 
+![Screenshot of HTML validator results](assets/readme-images/Lighthousetestresult.png)
+
+Unfortunatel 75 was the best score I was able to get in the Lighthouse testing. The tests provided me with many hints on how to improve responsivenes, which included changing type and resizing images.
+
 ### HTML Validatior
 
 HTML validator suggested adding heading to the carousel(index.html), gallery navigation(gallery.html) and location(all pages). I ecided it would not be beneficial to the website to do so.
 
-![Screenshot of HTML validator results](assets/images/html-validator.png)
+![Screenshot of HTML validator results](assets/readme-images/html-validator.png)
 
 ### CSS Validator
 
 CSS code was validated without problems.
 
-![Screenshot of CSS validator results](assets/images/CSS-validator.png)
+![Screenshot of CSS validator results](assets/readme-images/CSS-validator.png)
 
 ### Manual tests
  
